@@ -1,0 +1,6 @@
+framework module WSEmptyDataSet {
+  umbrella header "WSEmptyDataSet-umbrella.h"
+
+  export *
+  module * { export * }
+}

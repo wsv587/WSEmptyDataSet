@@ -1,0 +1,27 @@
+{
+  "name": "WSEmptyDataSet",
+  "version": "0.1.0",
+  "summary": "A short description of WSEmptyDataSet.",
+  "description": "A long long long long long long description of WSEmptyDataSet.",
+  "homepage": "https://github.com/wsv587/WSEmptyDataSet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ws": "wanggyanmo@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wsv587/WSEmptyDataSet.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WSEmptyDataSet/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}

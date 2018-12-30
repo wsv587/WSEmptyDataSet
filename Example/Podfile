@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'WSEmptyDataSet_Example' do
+  pod 'WSEmptyDataSet', :path => '../'
+  target 'WSEmptyDataSet_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (4.0.0)
+  - WSEmptyDataSet (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - WSEmptyDataSet (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  WSEmptyDataSet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  WSEmptyDataSet: 1c2cb3bdb18f815e969f0b111a30c9cb9379a230
+
+PODFILE CHECKSUM: 23fb441d5ac4c6c22c8013c79a28d588b3de479b
+
+COCOAPODS: 1.5.3
